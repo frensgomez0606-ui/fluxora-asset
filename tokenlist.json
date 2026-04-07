@@ -1,0 +1,14 @@
+{
+  "name": "Fluxora Token List",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "name": "Fluxora",
+      "symbol": "FLX",
+      "address": "0x5BCc8D88d8c9e422D4C645f4816eDfb8757AA161",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/frensgomez0606-ui/fluxora-asset/main/logo.jpg"
+    }
+  ]
+}
